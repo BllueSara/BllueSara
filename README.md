@@ -1,8 +1,12 @@
-# 👋 Hi, I'm Sara Alluhaibi  
+<h1 align="center">👋 Hi, I'm Sara Alluhaibi</h1>
 
-🎓 **Senior Computer Science Student**  
-💻 **Full-Stack Web Developer** & **Application Developer**  
-🤖 Passionate about **Artificial Intelligence** and emerging technologies  
+<p align="center">
+🎓 <b>Senior Computer Science Student</b>  
+<br>
+💻 <b>Full-Stack Web Developer</b> & <b>Application Developer</b>  
+<br>
+🤖 Passionate about <b>Artificial Intelligence</b> and emerging technologies  
+</p>
 
 ---
 
@@ -14,20 +18,20 @@ My goal is to create technology that not only works — but inspires progress an
 ---
 
 ## 🛠️ Tech Stack  
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="45" height="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" height="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45" />
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" />
 </p>
 
 ---
 
 ## 📫 Connect With Me  
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/sara-alluhaibi-08a162320/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn" />
   </a>
@@ -37,10 +41,12 @@ My goal is to create technology that not only works — but inspires progress an
   </a>
   &nbsp;&nbsp;
   <a href="https://x.com/BllueStar1" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968830.png" width="40" height="40" alt="X" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/53/X_logo_black_2023.svg" width="38" height="38" alt="X" />
   </a>
 </p>
 
 ---
 
-⭐️ *“Code with purpose, design with empathy, and build with innovation.”*
+<p align="center">
+⭐️ <i>“Code with purpose, design with empathy, and build with innovation.”</i>
+</p>
