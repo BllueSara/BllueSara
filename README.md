@@ -40,9 +40,10 @@ My goal is to create technology that not only works — but inspires progress an
     <img src="https://cdn-icons-png.flaticon.com/512/906/906312.png" width="40" height="40" alt="Outlook" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://x.com/BllueStar1" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968830.png" width="38" height="38" alt="X" />
-  </a>
+<a href="https://x.com/BllueStar1" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/X_logo_white.svg" width="38" height="38" alt="X" />
+</a>
+
 </p>
 
 ---
