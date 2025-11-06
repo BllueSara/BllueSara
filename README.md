@@ -37,7 +37,7 @@ My goal is to create technology that not only works — but inspires progress an
   </a>
   &nbsp;&nbsp;
   <a href="mailto:saraalluhaibi@outlook.com" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Microsoft_Office_Outlook_%282018%E2%80%93present%29.svg" width="40" height="40" alt="Outlook" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Microsoft_Office_Outlook_2018–present.svg" width="42" height="42" alt="Outlook" />
   </a>
   &nbsp;&nbsp;
   <a href="https://x.com/BllueStar1" target="_blank">
@@ -47,4 +47,6 @@ My goal is to create technology that not only works — but inspires progress an
 
 ---
 
-
+<p align="center">
+⭐️ <i>“Code with purpose, design with empathy, and build with innovation.”</i>
+</p>
