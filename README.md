@@ -1,6 +1,6 @@
-<h1 align="center">👋 Hi, I'm Sara Alluhaibi</h1>
+<h1>👋 Hi, I'm Sara Alluhaibi</h1>
 
-<p align="center">
+<p>
 🎓 <b>Senior Computer Science Student</b>  
 <br>
 💻 <b>Full-Stack Web Developer</b> & <b>Application Developer</b>  
