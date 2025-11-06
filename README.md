@@ -1,7 +1,7 @@
 <h1>👋 Hi, I'm Sara Alluhaibi</h1>
 
 <p>
-🎓 <b>Senior Computer Science Student</b>  
+🎓 <b>Senior Computer Science</b>  
 <br>
 💻 <b>Full-Stack Web Developer</b> & <b>Application Developer</b>  
 <br>
