@@ -48,6 +48,10 @@ My goal is to create technology that not only works — but inspires progress an
 
 ---
 
-<p align="center">
-⭐️ <i>“Code with purpose, design with empathy, and build with innovation.”</i>
-</p>
+
+
+
+
+
+
+  
