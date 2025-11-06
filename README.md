@@ -33,15 +33,15 @@ My goal is to create technology that not only works — but inspires progress an
 ## 📫 Connect With Me  
 <p align="center">
   <a href="https://www.linkedin.com/in/sara-alluhaibi-08a162320/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn" />
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40" height="40" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;
   <a href="mailto:saraalluhaibi@outlook.com" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Microsoft_Office_Outlook_2018–present.svg" width="42" height="42" alt="Outlook" />
+    <img src="https://cdn-icons-png.flaticon.com/512/906/906312.png" width="40" height="40" alt="Outlook" />
   </a>
   &nbsp;&nbsp;
   <a href="https://x.com/BllueStar1" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/5/53/X_logo_black_2023.svg" width="38" height="38" alt="X" />
+    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968830.png" width="38" height="38" alt="X" />
   </a>
 </p>
 
