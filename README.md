@@ -1,41 +1,45 @@
 # 👋 Hi, I'm Sara Alluhaibi  
-🎓 **Senior Computer Science Student** at Umm Al-Qura University  
+🎓 **Senior Computer Science** 
 💻 **Full-Stack Web Developer** & **Application Developer**  
 🤖 Passionate about **Artificial Intelligence** and emerging technologies  
 
 ---
 
 ## 🧠 About Me  
-I’m a motivated developer who enjoys building creative and efficient solutions for web and mobile applications.  
-Currently focused on mastering full-stack development and exploring the intersection between AI and software engineering.  
+As a developer, I value clarity, structure, and purposeful design.
+I approach every project with a focus on building effective, scalable, and meaningful solutions.
+My goal is to create technology that not only works, but inspires progress and positive impact.
 
 ---
 
 ## 🛠️ Tech Stack  
 <p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="45" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45" />
 </p>
 
 ---
 
 ## 📫 Connect With Me  
 <p align="left">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Sara%20Alluhaibi-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/sara-alluhaibi-08a162320/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" />
   </a>
-  <a href="mailto:YOUR-EMAIL@domain.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-Send%20Mail-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  &nbsp;&nbsp;
+  <a href="mailto:saraalluhaibi@outlook.com" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40" height="40" />
   </a>
-  <a href="https://twitter.com/YOUR-TWITTER-USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-%40BllueSara-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  &nbsp;&nbsp;
+  <a href="https://x.com/BllueStar1" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/X_logo_2023.svg" width="40" height="40" />
   </a>
 </p>
 
 ---
 
+⭐️ *“Code with purpose, design with empathy, and build with innovation.”*
