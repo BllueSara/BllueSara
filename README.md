@@ -41,7 +41,7 @@ My goal is to create technology that not only works — but inspires progress an
   </a>
   &nbsp;&nbsp;
 <a href="https://x.com/BllueStar1" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/X_logo_white.svg" width="38" height="38" alt="X" />
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968958.png" width="38" height="38" alt="X" style="border-radius:6px; background-color:white; padding:4px;" />
 </a>
 
 </p>
